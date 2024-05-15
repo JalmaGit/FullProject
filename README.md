@@ -48,4 +48,9 @@ Launch file is found here
 
 ## Videos
 
-- [PID controller video](videos/PID controller.mp4)
+These are not links, but rather short descriptions for what each video file contains,
+
+ - PID controller.mp4: Video of PID controller in action
+ - cameralag.mp4: Video of the Lag in the Camera
+ - circular motion.mp4: Video of the circular motion of with sinuodial wave to test the kinematics
+ - rollandpitch.mp4: Video of ball position controlls the pitch and roll angle of the platform
