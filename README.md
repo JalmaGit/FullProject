@@ -2,6 +2,8 @@
 
 ## Robot Project Folder:
 
+This folder contains the majority of the code and files.
+
 ### Nodes
 
 The nodes can be found throught these links,
