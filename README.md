@@ -3,7 +3,7 @@
 ## Robot Project Folder:
 
 ### Nodes
-The nodes can be found throught this link.
+The nodes can be found throught these links,
 
  - [Camera Node](RobotProject/RobotProject/Camera_node.py)
 
