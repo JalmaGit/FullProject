@@ -40,4 +40,4 @@ Launch file is found here
 
  - [Setup File](RobotProject/setup.py)
 
- - [Setup File](RobotProject/package.xml)
+ - [Packages File](RobotProject/package.xml)
