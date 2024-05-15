@@ -3,7 +3,8 @@
 ## Robot Project Folder:
 
 ### Nodes
-The nodes can be found throught these links,
+
+The nodes can be found throught these links.
 
  - [Camera Node](RobotProject/RobotProject/Camera_node.py)
 
@@ -21,6 +22,6 @@ The nodes can be found throught these links,
 
  - [Sim Node](RobotProject/RobotProject/sim_node.py)
 
+### URDF Files:
 
-
-
+The URDF files is found h
