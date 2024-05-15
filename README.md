@@ -34,4 +34,10 @@ The URDF files is found here
 
 Launch file is found here
 
- - [Launch File](RobotProject/launch/Robot_Project.launch.py) 
+ - [Launch File](RobotProject/launch/Robot_Project.launch.py)
+
+### Setup and Package handling:
+
+ - [Setup File](RobotProject/setup.py)
+
+ - [Setup File](RobotProject/package.xml)
