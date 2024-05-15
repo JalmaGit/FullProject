@@ -24,4 +24,8 @@ The nodes can be found throught these links,
 
 ### URDF Files:
 
-The URDF files is found h
+The URDF files is found here
+
+ - [Broken Entire 3Dof Platform](RobotProject/urdf/entire3DofPlat.urdf)
+
+ - [Working but onlty plate 3Dof Platfrom](RobotProject/urdf/platform2.urdf) 
