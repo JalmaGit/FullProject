@@ -4,7 +4,7 @@
 
 ### Nodes
 
-The nodes can be found throught these links.
+The nodes can be found throught these links,
 
  - [Camera Node](RobotProject/RobotProject/Camera_node.py)
 
