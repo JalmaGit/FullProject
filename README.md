@@ -2,4 +2,4 @@
 
 The nodes can be found here:
 
-[file.pdf](RobotProject/Robotproject/Camera_node.py)
+[file.pdf](RobotProject/RobotProject/Camera_node.py)
